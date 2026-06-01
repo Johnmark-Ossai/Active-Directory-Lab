@@ -3,30 +3,35 @@
 ## Project Overview
 This project demonstrates the deployment and administration of a Windows Server 2022 Active Directory environment.
 
-## Objectives
-- Install Windows Server 2022
-- Configure Active Directory Domain Services
-- Configure DNS
-- Configure DHCP
-- Create Organizational Units
-- Create Users and Groups
-- Implement Group Policy
-- Join Client Systems to Domain
+## Lab Components
+
+### Documentation
+Contains deployment guides, configuration procedures, and technical notes.
+
+### Network Diagram
+Contains logical and physical network diagrams for the lab environment.
+
+### PowerShell Scripts
+Contains automation scripts for Active Directory administration and user management.
+
+### Screenshots
+Contains screenshots demonstrating configuration and deployment processes.
 
 ## Technologies Used
+
 - Windows Server 2022
-- Active Directory
+- Active Directory Domain Services
 - DNS
 - DHCP
-- Group Policy Management
+- Group Policy
+- PowerShell
 - Windows 11 Client
 
 ## Skills Demonstrated
-- Server Administration
-- Identity & Access Management
+
+- Active Directory Administration
 - DNS & DHCP Configuration
 - Group Policy Management
-- Network Services
-
-## Author
-Johnmark Ossai
+- User & Group Administration
+- PowerShell Automation
+- Network Services Management
